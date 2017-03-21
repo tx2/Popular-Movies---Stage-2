@@ -1,0 +1,40 @@
+<resources>
+    <string name="content_authority" translatable="false">com.example.android.popularmovies</string>
+
+    <string name="mock_movie_title" translatable="false">Wizard of All</string>
+    <string name="mock_separator_title" translatable="false">Trailers:</string>
+    <string name="mock_trailer_item_title" translatable="false">Trailer 1</string>
+    <string name="mock_user_name" translatable="false">John Doe</string>
+    <string name="mock_review" translatable="false">This movie is great! I love it and I will see it again!</string>
+    <string name="mock_movie_year" translatable="false">2016</string>
+    <string name="mock_movie_rate" translatable="false">8.6/10</string>
+    <string name="mock_movie_synopsis" translatable="false">This movie is about a guy who lives alone in a forest.</string>
+    <string name="mock_set_as_favourite" translatable="false">Mark as Favourite</string>
+    
+    <string name="app_name">Popular Movies</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="share">Share</string>
+
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favourite">Favourite</string>
+
+    <string name="loading_error_message">Failed to get movies.\nPlease try again.</string>
+    <string name="loading_no_favourites_message">You have no favourite\nmovies yet.</string>
+    <string name="error_adding_favourite">An error was occurred while adding favourite.</string>
+    <string name="error_removing_favourite">An error was occurred while removing favourite.</string>
+    <string name="no_movie_to_share">There are no trailers available for this movie.</string>
+    
+    <string name="detail_title">Movie Detail</string>
+    <string name="trailers_title">Trailers:</string>
+    <string name="reviews_title">Reviews:</string>
+    <string name="favourite_button_on">Mark as Favourite</string>
+    <string name="favourite_button_off">Unmark as Favourite</string>
+    <string name="share_title">Share first trailer using</string>
+
+    <string name="line_image_content_description">Separator line</string>
+    <string name="play_image_content_description">Play movie trailer</string>
+    <string name="user_image_content_description">Reviewer</string>
+    <string name="movie_poster_content_description">Movie poster</string>
+</resources>
