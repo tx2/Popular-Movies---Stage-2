@@ -1,4 +1,4 @@
-# Popular Movies - Stage 1
+# Popular Movies - Stage 2
 
 Android application to help users find recent and popular movies. This project uses _The Movie DB_ (TMDb) api to fetch the movie data. 
 
